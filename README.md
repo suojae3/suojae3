@@ -25,25 +25,25 @@
 
 #### DS & Algorithms
 
-<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
+<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a><br/>
 <a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[Inflearn] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
 
 
 #### Operating System
 
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Ewha Univ] Operating System - Hyokyung Bahn </strong></a></a>
+<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Ewha Univ] Operating System - Hyokyung Bahn </strong></a></a><br/>
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Operating System - Hyokyung Bahn </strong></a></a>
 
 
 #### Database 
 
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Hanyang Univ] Database - Hyunmi Baek</strong></a></a>
+<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Hanyang Univ] Database - Hyunmi Baek</strong></a></a><br/>
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database - Hyunmi Baek</strong></a></a>
 
 
 #### Network
 
-<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: Hanyang Univ] Computer Networking -	Sukbok Lee </strong></a></a>
+<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: Hanyang Univ] Computer Networking -	Sukbok Lee </strong></a></a><br/>
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking -	Sukbok Lee </strong></a></a>
 
 
