@@ -7,6 +7,9 @@
 ## Main Project
 
 #### Flutter
+- project1
+- project2
+- project3
 
 
 #### iOS
@@ -53,7 +56,8 @@
 
 
 #### Flutter
-
+- 패스트캠퍼스 인강
+- 유데미 인강
 
 ---
 
@@ -77,6 +81,7 @@
 ---
 
 ## UX/UI
+- 책 정리본
 
 ---
 
