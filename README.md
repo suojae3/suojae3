@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=🥹+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+Flutter+developer+who+loves+to+read)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suojae3&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suojae3&theme=default)](https://git.io/streak-stats)
 
 ---
 ## Main Project
