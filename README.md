@@ -14,6 +14,9 @@
 ---
 ## Computer Science
 
+#### Computer Architecture
+
+
 #### DS & Algorithms
 
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
@@ -29,12 +32,6 @@
 #### System Programming
 
 
-
-#### Computer Architecture
-
-#### Computer Architecture
-
-#### Computer Architecture
 
 ---
 ## Flutter 
