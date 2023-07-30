@@ -6,7 +6,7 @@
 ---
 ### Computer Science
 
-01. <a href="https://github.com/suojae3/Network.gitt" target="_blank"><strong>Network</strong></a></a>
+01. <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>Network</strong></a></a>
 
 
 ---
