@@ -20,7 +20,7 @@
 
 #### DS & Algorithms
 
-<a href="https://github.com/suojae3/DS&Algorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
+<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
 
 #### Operating System
 
