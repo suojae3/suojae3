@@ -15,6 +15,7 @@
 ## Computer Science
 
 #### Computer Architecture
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/suojae3/ComputerArchitrecture.git)
 
 <a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea univ] Computer Architecture GunjaeKoo</strong></a></a>
 
