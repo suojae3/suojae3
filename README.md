@@ -17,7 +17,7 @@
 
 #### Computer Architecture
 
-<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea univ] Computer Architecture - GunjaeKoo</strong></a></a>
+<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea Univ] Computer Architecture - GunjaeKoo</strong></a></a>
 
 #### DS & Algorithms
 
@@ -36,6 +36,8 @@
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: Hanyang Univ] Computer Networking -	Sukbok Lee </strong></a></a>
 
 #### System Programming
+
+<a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: Hanyang Univ] System Programming - Haewoon Nam</strong></a></a>
 
 
 
