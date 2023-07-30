@@ -6,14 +6,14 @@
 ---
 ### Computer Science
 
-01. <a href="https://github.com/suojae3/Network.gitt" target="_blank"><strong style="color:#FF8989;">Reading Dart documentation</strong></a>
+01. <a href="https://github.com/suojae3/Network.gitt" target="_blank"><strong>Network</strong></a></a>
 
 
 ---
 ### Flutter 
 
 
-01. <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong style="color:#FF8989;">Reading Dart documentation</strong></a>
+01. <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>Reading Dart documentation</strong></a></a>
 
 
 
