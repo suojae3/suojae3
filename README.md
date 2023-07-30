@@ -7,14 +7,15 @@
 ## Main Project
 
 #### Flutter
-- project1
-- project2
-- project3
+- project1(11월)
+- project2(12월)
+- project3(01월)
+- project4(02월)
 
 
 #### iOS
-- project1
-- project2
+- project1(9월)
+- project2(10월)
 
 ---
 ## Computer Science
