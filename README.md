@@ -17,7 +17,7 @@
 
 #### Computer Architecture
 
-<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea univ] Computer Architecture GunjaeKoo</strong></a></a>
+<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea univ] Computer Architecture - GunjaeKoo</strong></a></a>
 
 #### DS & Algorithms
 
