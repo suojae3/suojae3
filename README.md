@@ -1,2 +1,20 @@
+ 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&fontSize=35&text=Hi,%20I'm%20a%20Flutter%20developer%20who%20loves%20to%20read&animation=fadeIn&fontAlignY=42&fontAlign=45)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=2000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=Welcome+to+my+Github+Profile+%F0%9F%91%8B%F0%9F%8F%BB+;+;I'm+a+Flutter+developer+who+loves+to+read)](https://git.io/typing-svg)
+---
+
+### Computer Science
+
+---
+
+### Flutter 
+
+---
+
+### iOS
+
+---
+
+### Problem Solving (Swift & Dart)
+
+
