@@ -7,6 +7,23 @@
 
 ### Computer Science
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/username/repository1">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repository1" width="300" height="150" style="border-radius: 30px;" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/username/repository2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repository2" width="300" height="150" style="border-radius: 30px;" />
+      </a>
+    </td>
+  </tr>
+  <!-- Add more rows and cells as needed -->
+</table>
+
+
 
 
 
@@ -21,5 +38,5 @@
 ---
 
 ### Problem Solving (Swift & Dart)
-
+https://github.com/suojae3/DartDocs.git
 
