@@ -65,7 +65,7 @@
 
 ## Problem Solving (Swift & Dart)
 
-<a href="https://github.com/suojae3/ProblemSolving" target="_blank"><strong>Problem Solving</strong></a></a>
+<a href="https://github.com/suojae3/ProblemSolving" target="_blank"><strong>Problem Solving 1-100</strong></a></a>
 
 
 ---
