@@ -18,7 +18,7 @@
 
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a>
 
-#### Operation System
+#### Operating System
 
 #### Database 
 
