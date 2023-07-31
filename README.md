@@ -39,7 +39,7 @@
 
 #### Database 
 
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Hanyang Univ] Database - Hyunmi Baek</strong></a></a><br/>
+<a href="https://github.com/suojae3/Database.git" target="_blank"><strong>[MOOC: Hanyang Univ] Database - Hyunmi Baek</strong></a></a><br/>
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database</strong></a></a>
 
 
