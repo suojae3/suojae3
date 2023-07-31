@@ -77,7 +77,7 @@
 - Swift notion 정리본
 
 #### UIkit
-<a href="https://github.com/suojae3/iOS_ToDoList.git" target="_blank"><strong>[iOS: Mini Project] ToDo List </strong></a></a>
+<a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a>
 
 - UIkit notion 정리본
 
