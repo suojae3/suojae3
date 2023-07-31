@@ -66,7 +66,7 @@
 
 #### Dart
 
-<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Reading Dart Documentation</strong></a></a>
+<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Reading Dart Documentation</strong></a></a><br/>
 <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
 
 
