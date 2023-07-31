@@ -20,7 +20,8 @@
 
 ---
 ## Mini Project
-- <a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a>
+
+<a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a><br/>
 
 
 ---
