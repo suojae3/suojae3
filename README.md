@@ -7,10 +7,10 @@
 ## Main Project
 
 #### Flutter
-- project1(11월)
-- project2(12월)
-- project3(01월)
-- project4(02월)
+- project1
+- project2
+- project3
+- project4
 - project5(포트폴리오용 웹)
 
 
