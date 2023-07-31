@@ -84,8 +84,8 @@
 
 #### UIkit
 
+<a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>[Database] Core Data </strong></a></a>
 
-- UIkit notion 정리본
 
 ---
 
