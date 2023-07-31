@@ -83,7 +83,7 @@
 
 ---
 
-## Problem Solving (Swift & Dart)
+## Problem Solving (Dart & Swift)
 
 <a href="https://github.com/suojae3/ProblemSolving" target="_blank"><strong>Problem Solving 001-100 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ProblemSolving1" target="_blank"><strong>Problem Solving 101-200 </strong></a></a><br/>
