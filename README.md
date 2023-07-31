@@ -19,6 +19,11 @@
 - project2(10월)
 
 ---
+## Mini Project
+- <a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a>
+
+
+---
 ## Computer Science
 
 #### Computer Architecture
@@ -77,7 +82,7 @@
 - Swift notion 정리본
 
 #### UIkit
-<a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a>
+
 
 - UIkit notion 정리본
 
