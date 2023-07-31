@@ -68,7 +68,6 @@
 #### Flutter
 <a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List </strong></a></a>
 
-- 패스트캠퍼스 인강
 - 유데미 인강
 
 ---
@@ -78,7 +77,7 @@
 - Swift notion 정리본
 
 #### UIkit
-<a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[iOS: Mini Project] ToDo List </strong></a></a>
+<a href="https://github.com/suojae3/iOS_ToDoList.git" target="_blank"><strong>[iOS: Mini Project] ToDo List </strong></a></a>
 
 - UIkit notion 정리본
 
