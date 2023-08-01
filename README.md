@@ -29,7 +29,7 @@
 
 #### Computer Architecture
 
-<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea Univ] Computer Architecture - GunjaeKoo</strong></a></a>
+<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: 고려대학교] 컴퓨터 구조 - 구건재 교수</strong></a></a>
 
 #### Data Structure & Algorithms
 
@@ -39,25 +39,25 @@
 
 #### Operating System
 
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: Ewha Univ] Operating System - Hyokyung Bahn </strong></a></a><br/>
+<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: 이화여자대학교] 운영체제 - 반효경 교수 </strong></a></a><br/>
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Operating System </strong></a></a>
 
 
 #### Database 
 
-<a href="https://github.com/suojae3/database.git" target="_blank"><strong>[MOOC: Hanyang Univ] Database - Hyunmi Baek</strong></a></a><br/>
+<a href="https://github.com/suojae3/database.git" target="_blank"><strong>[MOOC: 한양대학교] 데이터베이스 - 백현미 교수</strong></a></a><br/>
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database</strong></a></a>
 
 
 #### Network
 
-<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: Hanyang Univ] Computer Networking -	Sukbok Lee </strong></a></a><br/>
+<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking </strong></a></a>
 
 
 #### System Programming
 
-<a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: Hanyang Univ] System Programming - Haewoon Nam</strong></a></a>
+<a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: 한양대학교] 시스템 프로그래밍 - 남해원 교수</strong></a></a>
 
 
 
@@ -66,7 +66,7 @@
 
 #### Dart
 
-<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Reading Dart Documentation</strong></a></a><br/>
+<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Dart 공식문서 정리</strong></a></a><br/>
 <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
 
 
