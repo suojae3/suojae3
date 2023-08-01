@@ -72,7 +72,7 @@
 
 #### Flutter
 
-<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Flutter: Part01] 기초개념 </strong></a></a><br/>
+<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
 - Redux<br/>
 - provider<br/>
 - bloc<br/>
