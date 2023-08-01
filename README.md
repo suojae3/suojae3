@@ -34,25 +34,25 @@
 #### Data Structure & Algorithms
 
 <a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a><br/>
-<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[Inflearn] Data structure and algorithms</strong></a></a>
+<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[Inflearn] Data structure and algorithms 개념 정리</strong></a></a>
 
 
 #### Operating System
 
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: 이화여자대학교] 운영체제 - 반효경 교수 </strong></a></a><br/>
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Operating System </strong></a></a>
+<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Operating System 개념 정리</strong></a></a>
 
 
 #### Database 
 
 <a href="https://github.com/suojae3/database.git" target="_blank"><strong>[MOOC: 한양대학교] 데이터베이스 - 백현미 교수</strong></a></a><br/>
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database</strong></a></a>
+<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database 개념 정리</strong></a></a>
 
 
 #### Network
 
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
-<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking </strong></a></a>
+<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
 
 
 #### System Programming
