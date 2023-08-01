@@ -85,8 +85,8 @@
 - Swift notion 정리본
 
 #### UIKit
-
-<a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>[Database] Core Data </strong></a></a>
+<a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>클로저에서 왜 weak selff를 선언해야할까?</strong></a></a><br/>
+<a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>[Database] Core Data </strong></a></a><br/>
 
 #### Design Pattern
 
