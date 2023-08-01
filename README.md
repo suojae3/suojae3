@@ -73,6 +73,10 @@
 #### Flutter
 
 <a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Flutter: Part01] Fundamental </strong></a></a><br/>
+- Redux<br/>
+- provider<br/>
+- bloc<br/>
+- getx<br/>
 
 ---
 
