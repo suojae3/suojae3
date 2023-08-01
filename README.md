@@ -84,7 +84,7 @@
 #### Swift
 - Swift notion 정리본
 
-#### UIkit
+#### UIKit
 
 <a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>[Database] Core Data </strong></a></a>
 
