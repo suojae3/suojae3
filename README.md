@@ -23,6 +23,7 @@
 
 <a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a><br/>
 
+<a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List </strong></a></a><br/>
 
 ---
 ## Computer Science
@@ -71,9 +72,8 @@
 
 
 #### Flutter
-<a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List </strong></a></a>
 
-- 유데미 인강
+<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Inflearn] Flutter lecture</strong></a></a><br/>
 
 ---
 
