@@ -88,7 +88,7 @@
 
 <a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>[Database] Core Data </strong></a></a>
 
-#### 디자인패턴
+#### Design Pattern
 
 ---
 
