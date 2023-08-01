@@ -82,7 +82,7 @@
 
 ## iOS
 #### Swift
-- Swift notion 정리본
+- Swift notion 정리본<br/>
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까?</strong></a></a><br/>
 
 #### UIKit
