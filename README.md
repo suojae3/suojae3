@@ -31,7 +31,7 @@
 
 <a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: Korea Univ] Computer Architecture - GunjaeKoo</strong></a></a>
 
-#### DS & Algorithms
+#### Data Structure & Algorithms
 
 <a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a><br/>
 <a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[Inflearn] Data structure and algorithms</strong></a></a>
