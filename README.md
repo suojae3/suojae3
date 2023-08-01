@@ -21,8 +21,7 @@
 ---
 ## Mini Project
 
-<a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong></a></a><br/>
-
+<a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong><br/>
 <a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List </strong></a></a><br/>
 
 ---
