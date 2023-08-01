@@ -72,7 +72,7 @@
 
 #### Flutter
 
-<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Inflearn] Flutter lecture</strong></a></a><br/>
+<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Inflearn] Flutter[: Part01] Fundamental </strong></a></a><br/>
 
 ---
 
