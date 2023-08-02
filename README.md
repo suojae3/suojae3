@@ -136,6 +136,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suojae3&theme=swift&border_radius=10&card_width=490)](https://git.io/streak-stats)
-
 
