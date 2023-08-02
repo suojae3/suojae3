@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+an+iOS+developer+who+loves+to+read)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+Flutter+developer+who+loves+to+read)](https://git.io/typing-svg)
 
 ---
 깃 정리전 구호 3회 제창
@@ -20,17 +20,23 @@
 ---
 ## Main Project
 
-#### UIKit
+#### Flutter
+- project1
+- project2
+- project3
+- project4
+- project5(포트폴리오용 웹)
+
+
+#### iOS
 - project1(9월)
 - project2(10월)
-
-#### SwiftUI
-- 
 
 ---
 ## Mini Project
 
 <a href="https://github.com/suojae3/LiveForToday.git" target="_blank"><strong>[iOS: Mini Project] Live for today </strong><br/>
+<a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List </strong></a></a><br/>
 
 ---
 ## Computer Science
@@ -70,8 +76,33 @@
 
 
 ---
-## iOS
+## Flutter 
 
+#### Dart
+
+<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Dart 공식문서 정리(~8/13까지 완료)</strong></a></a><br/>
+<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
+- 오전에는 다트 공식문서 8/31까지 정리
+- 12~18시:CS & PS 준비(Dart&Swift)
+- 19~23시: 프로젝트 
+
+
+
+#### Flutter
+
+<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
+<a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[Flutter.dev] Flutter architectural overview
+</strong></a></a>
+- (9월~12월까지 오전에는 무조건 flutter 공식문서만 정리)
+  
+- Redux<br/>
+- provider<br/>
+- bloc<br/>
+- getx<br/>
+- 아키텍쳐
+---
+
+## iOS
 #### Swift
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
 <a href="https://github.com/suojae3/closure.git" target="_blank"><strong>왜 closure 에서 [weak self]를 선언해야할까?</strong></a></a><br/>
@@ -82,17 +113,7 @@
 
 <a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>Core Data 구현하기</strong></a></a><br/>
 
-#### SwiftUI
-
-<a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>Core Data 구현하기</strong></a></a><br/>
-
-#### RxSwift
-
-<a href="https://github.com/suojae3/RxSwift.git" target="_blank"><strong>RxSwift 개념정리</strong></a></a><br/>
-
-
 #### Design Pattern
-
 
 ---
 
@@ -107,6 +128,7 @@
 ---
 
 ## UX/UI
+- 책 정리본
 
 ---
 
@@ -115,6 +137,5 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suojae3&theme=swift&border_radius=10&card_width=490)](https://git.io/streak-stats)
-
 
 
