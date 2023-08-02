@@ -66,8 +66,11 @@
 
 #### Dart
 
-<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Dart 공식문서 정리</strong></a></a><br/>
+<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Dart 공식문서 정리(~8/13까지 완료)</strong></a></a><br/>
 <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
+- 오전에는 다트 공식문서 8/31까지 정리
+- 12~18시:CS & PS 준비(Dart&Swift)
+- 19~23시: 프로젝트 
 
 
 
@@ -76,7 +79,8 @@
 <a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
 <a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[Flutter.dev] Flutter architectural overview
 </strong></a></a>
-
+- (9월~12월까지 오전에는 무조건 flutter 공식문서만 정리)
+  
 - Redux<br/>
 - provider<br/>
 - bloc<br/>
