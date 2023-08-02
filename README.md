@@ -74,7 +74,7 @@
 #### Flutter
 
 <a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
-<a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[flutter.dev] Flutter architectural overview
+<a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[Flutter.dev] Flutter architectural overview
 </strong></a></a>
 
 - Redux<br/>
