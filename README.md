@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+Flutter+developer+who+loves+to+read)](https://git.io/typing-svg)
 
-
+---
+깃 정리전 구호 3회 제창
+# 공식문서를 열심히 읽자🧐  
+# 공식문서를 열심히 읽자🧐 
+# 공식문서를 열심히 읽자🧐 
 ---
 ## Main Project
 
