@@ -70,9 +70,13 @@
 <a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
 
 
+
 #### Flutter
 
 <a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
+<a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[flutter.dev] Flutter architectural overview
+</strong></a></a>
+
 - Redux<br/>
 - provider<br/>
 - bloc<br/>
