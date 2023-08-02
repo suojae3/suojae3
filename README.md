@@ -10,22 +10,11 @@
 ---
 
 
-[공부 타임라인]
-
-**8월 13일까지 끝내야할 것**: <br/>(09시-12) Dart.docs 정리 / (13시-18시) 운영체제 정리 / (19시-22시) 코딩테스트 30제 정리<br/>
-**8월 27일까지 끝내야할 것**: <br/>(09시-12) Effective dart, Flutter concept, layout 정리 / (13시-18시) 컴퓨터 구조 정리 / (19시-22시) 코딩테스트 30제 정리
-
-
 
 ---
 ## Main Project
 
 #### Flutter
-- project1
-- project2
-- project3
-- project4
-- project5(포트폴리오용 웹)
 
 
 #### iOS
