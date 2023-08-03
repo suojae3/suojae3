@@ -95,7 +95,6 @@ stageManagement
 <a href="https://github.com/suojae3/closure.git" target="_blank"><strong>왜 closure 에서 [weak self]를 선언해야할까?</strong></a></a><br/>
 <a href="https://github.com/suojae3/escaping.git" target="_blank"><strong>`@escaping` 키워드는 언제 사용하는걸까?</strong></a></a><br/>
 
-AutoresizingMask
 
 #### UIKit
 
