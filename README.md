@@ -47,7 +47,7 @@
 
 #### Network
 
-<a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
+<a href="https://github.com/suojae3/Network.git" target="_blak"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
 
 
@@ -55,7 +55,10 @@
 
 <a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: 한양대학교] 시스템 프로그래밍 - 남해원 교수</strong></a></a>
 
+#### System Programming
 
+
+#### Object Oriented Programming
 
 ---
 ## Flutter 
