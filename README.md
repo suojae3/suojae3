@@ -18,7 +18,7 @@
 ## Mini Project
 
 <a href="https://github.com/suojae3/TodoMiniProject.git" target="_blank"><strong>[iOS: Mini Project] ToDo App - 1인 프로젝트 </strong><br/>
-<a href="https://github.com/suojae3/Flutter_ToDoList.git" target="_blank"><strong>[Flutter: Mini Project] ToDo List - 1인 프로젝트 </strong></a></a><br/>
+<a href="https://github.com/suojae3/todo_fluttter_app.git" target="_blank"><strong>[Flutter: Mini Project] ToDo App - 1인 프로젝트 </strong></a></a><br/>
 
 - bloc / provider / getX / 
 
