@@ -2,7 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+Flutter+developer+who+loves+to+read)](https://git.io/typing-svg)
 
+---
 
+## 한 주에 iOS 앱 1개, Flutter 앱 1개 만들기 챌린지
+
+[8월 2주차] iOS/Flutter: Todo list App
+[8월 3주차] iOS/Flutter: Calculator App
+[8월 4주차] iOS/Flutter: Weather App
+[8월 5주차] iOS/Flutter: Movie app
 
 ---
 ## Main Project
