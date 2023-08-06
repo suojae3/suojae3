@@ -4,7 +4,7 @@
 
 ---
 
-## 매주 iOS 앱 1개, Flutter 앱 1개 만들기 챌린지
+## 매주 iOS 앱 1개, Flutter 앱 1개 만들기 스터디
 
 #### [8월 1주차] iOS/Flutter: Todo list App
 #### [8월 2주차] iOS/Flutter: Calculator App
