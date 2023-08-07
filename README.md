@@ -80,10 +80,9 @@
 
 #### Design Pattern
 
-<a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드
+<a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
-</strong></a></a><br/>
+
 
 ---
 
@@ -124,6 +123,8 @@ stageManagement
 <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefault란 어떤 저장소인가요?
+</strong></a></a><br/>
+<a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
 </strong></a></a><br/>
 
 
