@@ -97,7 +97,7 @@ Flutter & Dart: SOLID Principles and Top Design Patterns</strong></a></a><br/>
 #### Flutter
 stageManagement
 
-<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Part01] Flutter 기초개념 </strong></a></a><br/>
+<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Udemy] Flutter Complete guide </strong></a></a><br/>
 <a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[Flutter.dev] Flutter architectural overview
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/stageManagement.git" target="_blank"><strong>[Flutter.dev] Flutter state management
