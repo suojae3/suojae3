@@ -75,6 +75,16 @@
 객체지향형 프로그래밍과 자료구조 - 영남대 김영탁 교수
 
 ---
+
+## Architecture
+
+#### Design Pattern
+
+<a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
+</strong></a></a><br/>
+
+---
+
 ## Flutter 
 
 #### Dart
@@ -114,10 +124,7 @@ stageManagement
 <a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefault란 어떤 저장소인가요?
 </strong></a></a><br/>
 
-#### Design Pattern
 
-<a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
-</strong></a></a><br/>
 
 ---
 
