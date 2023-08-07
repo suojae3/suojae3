@@ -105,7 +105,6 @@ stageManagement
 - provider<br/>
 - bloc<br/>
 - getx<br/>
-- 클린아키텍쳐
 ---
 
 ## iOS
