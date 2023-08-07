@@ -130,7 +130,7 @@ stageManagement
 
 ## Problem Solving (Dart & Swift)
 
-<a href="https://github.com/suojae3/ProblemSolving100" target="_blank"><strong>Problem Solving 001-100 </strong></a></a><br/>
+<a href="https://github.com/suojae3/ProblemSolving100.git" target="_blank"><strong>Problem Solving 001-100 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ProblemSolving1" target="_blank"><strong>Problem Solving 101-200 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ProblemSolving2" target="_blank"><strong>Problem Solving 201-300 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ProblemSolving3" target="_blank"><strong>Problem Solving 301-400 </strong></a></a><br/>
