@@ -64,10 +64,6 @@
 
 <a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: 한양대학교] 시스템 프로그래밍 - 남해원 교수</strong></a></a>
 
-#### System Programming
-
-시스템 프로그래밍 - 한양대 남해운 교수
-
 #### Object Oriented Programming
 
 객체지향형 프로그래밍과 자료구조 - 영남대 김영탁 교수
