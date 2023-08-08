@@ -72,6 +72,10 @@
 
 객체지향형 프로그래밍과 자료구조 - 영남대 김영탁 교수
 
+#### Software Engineering
+
+소프트웨어 공학 - 동국대 조영석 교수
+
 ---
 
 ## Software Architecture
