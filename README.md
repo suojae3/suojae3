@@ -77,7 +77,7 @@ Understanding APIs and RESTful APIs
 
 ---
 
-## Clean code
+## Software architecture & Clean code
 
 <a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
@@ -126,7 +126,6 @@ stageManagement
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
 </strong></a></a><br/>
-
 
 
 ---
