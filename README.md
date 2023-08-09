@@ -60,19 +60,6 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/Network.git" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
 
-
-#### System Programming
-
-<a href="https://github.com/suojae3/SystemProgramming.git" target="_blank"><strong>[MOOC: 한양대학교] 시스템 프로그래밍 - 남해원 교수</strong></a></a>
-
-#### Object Oriented Programming
-
-객체지향형 프로그래밍과 자료구조 - 영남대 김영탁 교수
-
-#### Software Engineering
-
-소프트웨어 공학 - 동국대 조영석 교수
-
 ---
 
 ## Software architecture & Clean code
