@@ -3,28 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+developer+who+loves+to+read)](https://git.io/typing-svg)
 
 ---
-
-#### [8월 1주차] iOS/Flutter: Todo list App
-#### [8월 2주차] iOS/Flutter: Calculator App
-#### [8월 3주차] iOS/Flutter: Weather App
-#### [8월 4주차] iOS/Flutter: Movie app
-#### [8월 5주차] iOS/Flutter: Instagram
-
----
 ## Main Project
 
-#### Flutter
-
-
-#### iOS
-- project1(9월)
-- project2(10월)
 
 ---
 ## Mini Project
 
 <a href="https://github.com/suojae3/TodoMiniProject.git" target="_blank"><strong>[iOS: Mini Project] ToDo App - 1인 프로젝트 </strong><br/>
-<a href="https://github.com/suojae3/todo_fluttter_app.git" target="_blank"><strong>[Flutter: Mini Project] ToDo App - 1인 프로젝트 </strong></a></a><br/>
+
 
 ---
 ## Computer Science
@@ -72,29 +58,6 @@ Flutter & Dart: SOLID Principles and Top Design Patterns</strong></a></a><br/>
 
 ---
 
-## Flutter 
-
-#### Dart
-
-<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Dart 공식문서 정리(~8/13까지 완료)</strong></a></a><br/>
-<a href="https://github.com/suojae3/DartDocs.git" target="_blank"><strong>[Dart.dev] Effective Dart</strong></a></a>
-
-
-#### Flutter
-stageManagement
-
-<a href="https://github.com/suojae3/flutter.git" target="_blank"><strong>[Udemy] Flutter Complete guide </strong></a></a><br/>
-<a href="https://github.com/suojae3/FlutterArchitecture.git" target="_blank"><strong>[Flutter.dev] Flutter architectural overview
-</strong></a></a><br/>
-<a href="https://github.com/suojae3/stageManagement.git" target="_blank"><strong>[Flutter.dev] Flutter state management
-</strong></a></a>
-  
-- Redux<br/>
-- provider<br/>
-- bloc<br/>
-- getx<br/>
----
-
 ## iOS
 #### Swift
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
@@ -128,10 +91,6 @@ stageManagement
 ## UX/UI
 - 책 정리본
 
----
 
-## Books 
-
----
 
 
