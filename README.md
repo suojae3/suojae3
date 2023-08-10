@@ -52,9 +52,6 @@
 
 <a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 
-Flutter & Dart: SOLID Principles and Top Design Patterns</strong></a></a><br/>
-
 
 ---
 
