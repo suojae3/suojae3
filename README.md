@@ -55,16 +55,6 @@
 
 ---
 
-## Flutter
-
-#### Dart 
-
-#### Flutter
-
-
-
-
-
 ## iOS
 #### Swift
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
