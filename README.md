@@ -52,6 +52,12 @@
 
 <a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
+<a href="https://github.com/suojae3/주소입력.git" target="_blank"><strong> 객체지향 사고 프로세스 - 멧 와이스펠드
+</strong></a></a><br/>
+<a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커
+</strong></a></a><br/>
+<a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 좋은 코딩 나쁜 코딩 - 박진수
+</strong></a></a><br/>
 
 ---
 
