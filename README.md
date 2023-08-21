@@ -15,17 +15,6 @@
 ---
 ## Computer Science
 
-#### Computer Architecture
-
-<a href="https://github.com/suojae3/ComputerArchitrecture.git" target="_blank"><strong>[MOOC: 고려대학교] 컴퓨터 구조 - 구건재 교수</strong></a></a>
-
-#### Data Structure & Algorithms
-
-<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[MOOC: MIT] Data structure and algorithms - Erik Demaine, Srini Devadas</strong></a></a><br/>
-
-부경대학교 권오흠 교수
-
-<a href="https://github.com/suojae3/DSAlgorithms.git" target="_blank"><strong>[Inflearn] Data structure and algorithms 개념 정리</strong></a></a>
 
 
 #### Operating System
