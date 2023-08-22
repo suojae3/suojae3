@@ -59,7 +59,6 @@
 
 #### UIKit
 
-<a href="https://github.com/suojae3/CoreData.git" target="_blank"><strong>Core Data 구현하기</strong></a></a><br/>
 <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefault란 어떤 저장소인가요?
