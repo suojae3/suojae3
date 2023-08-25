@@ -47,7 +47,7 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/주소입력.git" target="_blank"><strong> Five Lines - 크리스찬 클라우젠 
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/주소입력.git" target="_blank"><strong> 함수형 코딩 - 에릭 노먼드 
+<a href="https://github.com/suojae3/GrokkingSimplicity.git" target="_blank"><strong> 함수형 코딩 - 에릭 노먼드 
 </strong></a></a><br/>
 
 ---
