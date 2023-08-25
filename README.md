@@ -49,6 +49,8 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/GrokkingSimplicity.git" target="_blank"><strong> 함수형 코딩 - 에릭 노먼드 
 </strong></a></a><br/>
+<a href="https://github.com/suojae3/EssenceOfObjectOrient.git" target="_blank"><strong> 객체지향의 사실과 오해 - 조영호 
+</strong></a></a><br/>
 
 ---
 
