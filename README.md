@@ -9,9 +9,9 @@
 ---
 ## 토이 프로젝트
 
-<a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[iOS: Mini Project] MyPlanner App - 1인 프로젝트 </strong><br/>
-<a href="https://github.com/iOS-TEAM11/snsproject.git" target="_blank"><strong>[iOS: Mini Project] Instagrm App - 팀 프로젝트 </strong><br/>
-<a href="https://github.com/suojae3/TodoMiniProject.git" target="_blank"><strong>[iOS: Mini Project] ToDo App - 1인 프로젝트 </strong><br/>
+<a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[UIKit] MyPlanner App - 1인 프로젝트 </strong><br/>
+<a href="https://github.com/iOS-TEAM11/snsproject.git" target="_blank"><strong>[UIKit] Instagrm App - 팀 프로젝트 </strong><br/>
+<a href="https://github.com/suojae3/TodoMiniProject.git" target="_blank"><strong>[UIKit] ToDo App - 1인 프로젝트 </strong><br/>
 
 
 ---
