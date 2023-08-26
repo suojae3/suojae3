@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+Profile+🥳+;+;I'm+a+developer+who+loves+to+read)](https://git.io/typing-svg)
 
 ---
-## Main Project
+## 배포한 프로젝트
 
 
 ---
-## Mini Project
+## 토이 프로젝트
 
 <a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[iOS: Mini Project] MyPlanner App - 1인 프로젝트 </strong><br/>
 <a href="https://github.com/iOS-TEAM11/snsproject.git" target="_blank"><strong>[iOS: Mini Project] Instagrm App - 팀 프로젝트 </strong><br/>
