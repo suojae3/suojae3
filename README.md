@@ -39,7 +39,7 @@
 
 ---
 
-## Software architecture & Clean code
+## Books
 
 <a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
