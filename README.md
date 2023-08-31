@@ -51,7 +51,7 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/EssenceOfObjectOrient.git" target="_blank"><strong> 객체지향의 사실과 오해 - 조영호 
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/Obejects.git" target="_blank"><strong> 오브젝트 - 조영호
+<a href="https://github.com/suojae3/Objects.git" target="_blank"><strong> 오브젝트 - 조영호
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/RxSwift.git" target="_blank"><strong> RxSwift - By the reaywenderlich Team
 </strong></a></a><br/>
