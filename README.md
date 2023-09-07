@@ -58,16 +58,7 @@
 
 ---
 
-## iOS Lecture
-
-
----
-
-## iOS Book
-
----
-
-## iOS Article
+## iOS Self-Study
 
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
 <a href="https://github.com/suojae3/closure.git" target="_blank"><strong>왜 closure 에서 [weak self]를 선언해야할까?</strong></a></a><br/>
@@ -78,6 +69,12 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
 </strong></a></a><br/>
+
+---
+
+## Reading Article
+
+
 
 ---
 
