@@ -56,27 +56,28 @@
 <a href="https://github.com/suojae3/Refactoring.git" target="_blank"><strong> 리팩토링 - 마틴 파울러
 </strong></a></a><br/>
 
+---
+
+## iOS Lecture
 
 
 ---
 
-## iOS
-#### Swift
+## iOS Book
+
+---
+
+## iOS Article
+
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
 <a href="https://github.com/suojae3/closure.git" target="_blank"><strong>왜 closure 에서 [weak self]를 선언해야할까?</strong></a></a><br/>
 <a href="https://github.com/suojae3/escaping.git" target="_blank"><strong>`@escaping` 키워드는 언제 사용하는걸까?</strong></a></a><br/>
-
-
-#### UIKit
-
 <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefault란 어떤 저장소인가요?
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
 </strong></a></a><br/>
-
-
 
 ---
 
@@ -87,9 +88,6 @@
 
 
 ---
-
-## UX/UI
-- 책 정리본
 
 
 
