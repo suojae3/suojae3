@@ -38,7 +38,7 @@
 #### Data Structure
 <a href="https://amused-jobaria-1a0.notion.site/6211c560bc5947c6bbed968634e4d2f9?pvs=4" target="_blank"><strong>[Inflearn] 자료구조 개념 정리</strong></a></a>
 
-### Computer Architecture
+#### Computer Architecture
 <a href="https://amused-jobaria-1a0.notion.site/26ef4f27108a45509c72a0b084bf7096?pvs=4"><strong>[MOOC: 고려대학교] 컴퓨터 구조 -	구건재 교수 </strong></a></a><br/>
 
 ---
