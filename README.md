@@ -33,9 +33,10 @@
 
 #### Network
 <a href="https://github.com/suojae3/Network.git" target="_blak"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
-<a href="https://github.com/suojae3/Restful APIs.git" target="_blak"><strong> Understanding APIs and RESTful APIs - Kalob Taulien
-</strong></a></a><br/>
 <a href="https://amused-jobaria-1a0.notion.site/af24c3c9aab547f795a02361e2773f14?pvs=4" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
+
+#### Data Structure
+<a href="https://amused-jobaria-1a0.notion.site/6211c560bc5947c6bbed968634e4d2f9?pvs=4" target="_blank"><strong>[Inflearn] 자료구조 개념 정리</strong></a></a>
 
 ---
 
