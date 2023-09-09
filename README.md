@@ -22,7 +22,7 @@
 #### Operating System
 
 <a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[MOOC: 이화여자대학교] 운영체제 - 반효경 교수 </strong></a></a><br/>
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Operating System 개념 정리</strong></a></a>
+<a href="https://amused-jobaria-1a0.notion.site/3c50131bc4e84c2ab5b70271e847716c?pvs=4" target="_blank"><strong>[Inflearn] Operating System 개념 정리</strong></a></a>
 
 
 #### Database 
