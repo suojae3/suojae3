@@ -28,7 +28,7 @@
 #### Database 
 
 <a href="https://github.com/suojae3/database.git" target="_blank"><strong>[MOOC: 한양대학교] 데이터베이스 - 백현미 교수</strong></a></a><br/>
-<a href="https://github.com/suojae3/OS.git" target="_blank"><strong>[Inflearn] Database 개념 정리</strong></a></a>
+<a href="https://amused-jobaria-1a0.notion.site/9426d5e0121d4a3f962b40da7ca76527?pvs=4" target="_blank"><strong>[Inflearn] Database 개념 정리</strong></a></a>
 
 
 #### Network
