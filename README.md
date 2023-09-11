@@ -63,6 +63,13 @@
 
 ---
 
+## WWDC 영상 정리
+
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Understanding-Swift-Performance-5cd09a9cca85411f96539ddde31d3bdf?pvs=4"><strong> [WWDC16 - Swift] Understanding Swift Performance
+</strong></a></a><br/>
+
+---
+
 ## iOS Self-Study
 
 <a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
@@ -76,15 +83,6 @@
 </strong></a></a><br/>
 <a href="https://band-flute-621.notion.site/iOS-4c08ebf581344cfa990cc73ea87b4af9?pvs=4" target="_blank"><strong> iOS 지식정리
 </strong></a></a><br/>
-
----
-
-## WWDC 영상 정리
-
-<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Understanding-Swift-Performance-5cd09a9cca85411f96539ddde31d3bdf?pvs=4"><strong> [WWDC16 - Swift] Understanding Swift Performance
-</strong></a></a><br/>
-
-
 
 ---
 
