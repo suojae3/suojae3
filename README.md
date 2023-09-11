@@ -9,7 +9,7 @@
 ## 토이 프로젝트
 <a href="https://github.com/CHERIN2/kickboards-ios.git" target="_blank"><strong>[UIKit] 킥보드 대여 앱 - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MemoRxSwift.git" target="_blank"><strong>[UIKit] Memo App(RxSwift 연습용) - 1인 프로젝트 </strong><br/>
-<a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[UIKit] MyPlanner App - 1인 프로젝트 </strong><br/>
+<a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[UIKit] MyPlanner App (수정중) - 1인 프로젝트 </strong><br/>
 <a href="https://github.com/iOS-TEAM11/snsproject.git" target="_blank"><strong>[UIKit] Instagrm App - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/TodoMiniProject.git" target="_blank"><strong>[UIKit] ToDo App - 1인 프로젝트 </strong><br/>
 <a href="https://www.notion.so/18-Flutter-1fbd0082a0dd49b1916cef53cde380e7?pvs=4" target="_blank"><strong>[Flutter] 오늘의 할 일 - 팀 프로젝트 </strong><br/>
