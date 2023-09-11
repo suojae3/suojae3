@@ -7,7 +7,7 @@
 
 ---
 ## 토이 프로젝트
-<a href="https://github.com/suojae3/SimpleWeather.git" target="_blank"><strong>[UIKit] 날씨 앱 - 1인 프로젝트 </strong><br/>
+<a href="https://github.com/suojae3/SimpleWeather.git" target="_blank"><strong>[UIKit] 날씨 앱 - 1인 프로젝트 (제작중) </strong><br/>
 <a href="https://github.com/CHERIN2/kickboards-ios.git" target="_blank"><strong>[UIKit] 킥보드 대여 앱 - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MemoRxSwift.git" target="_blank"><strong>[UIKit] Memo App(RxSwift 연습용) - 1인 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MWDPlanner.git" target="_blank"><strong>[UIKit] MyPlanner App (수정중) - 1인 프로젝트 </strong><br/>
