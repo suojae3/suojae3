@@ -65,6 +65,8 @@
 
 ## WWDC 영상 정리
 
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Protocol-and-Value-Oriented-Programming-in-UIKit-Apps-98378abff0914969a633734764d58fff?pvs=4"><strong> [WWDC16] Protocol and Value Oriented Programming in UIKit Apps
+</strong></a></a><br/>
 <a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Understanding-Swift-Performance-5cd09a9cca85411f96539ddde31d3bdf?pvs=4"><strong> [WWDC16 - Swift] Understanding Swift Performance
 </strong></a></a><br/>
 
