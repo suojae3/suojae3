@@ -74,7 +74,7 @@
 
 ## iOS Article
 
-<a href="https://amused-jobaria-1a0.notion.site/Swift-Enums-Design-Systems-Jacob-Bartlett-43656bc1385a4bb2914be186724995b7?pvs=4"><strong> Enum을 통해 Design System 구축하기
+<a href="https://amused-jobaria-1a0.notion.site/Swift-Enums-Design-Systems-Jacob-Bartlett-43656bc1385a4bb2914be186724995b7?pvs=4"> <strong>  Enum을 통해 Design System 구축하기
 </strong></a></a><br/>
 
 
