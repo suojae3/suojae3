@@ -66,7 +66,7 @@
 ## WWDC 영상 정리
 
 #### Swift
-<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Concurrent-Programming-with-GCD-e86c494b28b74b6eaaab4a53f59ff0ca?pvs=4"><strong> [WWDC16-Swift] [WWDC16-Swift]Concurrent Programming with GCD
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Concurrent-Programming-with-GCD-e86c494b28b74b6eaaab4a53f59ff0ca?pvs=4"><strong> [WWDC16-Swift] Concurrent Programming with GCD
 </strong></a></a><br/>
 <a href="https://amused-jobaria-1a0.notion.site/WWDC16-Protocol-and-Value-Oriented-Programming-in-UIKit-Apps-98378abff0914969a633734764d58fff?pvs=4"><strong> [WWDC16-Swift] Protocol and Value Oriented Programming in UIKit Apps
 </strong></a></a><br/>
