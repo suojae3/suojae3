@@ -4,7 +4,7 @@
 
 ---
 ## 배포 프로젝트
-<a href="https://github.com/suojae3/MuYaHo.git" target="_blank"><strong>[UIKit] 무야호! - 팀 프로젝트 [iOS(1), 백엔드(1), 기획자(2)] </strong><br/>
+<a href="https://github.com/suojae3/MuYaHo.git" target="_blank"><strong>[UIKit] 무야호! - 팀 프로젝트_iOS(1), 백엔드(1), 기획자(2) </strong><br/>
 
 ---
 ## 토이 프로젝트
