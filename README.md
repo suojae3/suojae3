@@ -18,6 +18,10 @@
 <a href="https://www.notion.so/18-Flutter-1fbd0082a0dd49b1916cef53cde380e7?pvs=4" target="_blank"><strong>[Flutter] 오늘의 할 일 - 팀 프로젝트 </strong><br/>
 
 ---
+## 오픈소스 프로젝트
+<a href="https://github.com/suojae3/EventChain.git" target="_blank"><strong>[Swift] EventChain 라이브러리 </strong><br/>
+
+---
 ## Computer Science
 
 
