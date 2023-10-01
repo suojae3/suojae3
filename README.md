@@ -43,8 +43,8 @@
 <a href="https://amused-jobaria-1a0.notion.site/af24c3c9aab547f795a02361e2773f14?pvs=4" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
 
 #### Data Structure
-<a href="https://amused-jobaria-1a0.notion.site/6211c560bc5947c6bbed968634e4d2f9?pvs=4" target="_blank"><strong>[Inflearn] 자료구조 개념 정리</strong></a></a>
-<a href="https://www.notion.so/Swift-Data-Structure-and-algorithm-9af243f8aef744e7aca7e03b848eb9de" target="_blank"><strong>[Udemy] Swift 자료구조 </strong></a></a>
+<a href="https://amused-jobaria-1a0.notion.site/6211c560bc5947c6bbed968634e4d2f9?pvs=4" target="_blank"><strong>[Inflearn] 자료구조 개념 정리</strong></a></a> <br/>
+<a href="https://www.notion.so/Swift-Data-Structure-and-algorithm-9af243f8aef744e7aca7e03b848eb9de" target="_blank"><strong>[Udemy] Swift 자료구조 </strong></a></a> <br/>
 
 #### Computer Architecture
 <a href="https://amused-jobaria-1a0.notion.site/26ef4f27108a45509c72a0b084bf7096?pvs=4"><strong>[MOOC: 고려대학교] 컴퓨터 구조 -	구건재 교수 </strong></a></a><br/>
