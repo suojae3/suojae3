@@ -8,7 +8,7 @@
 
 ---
 ## 토이 프로젝트
-<a href="https://github.com/z-wook/How_is_the_weather.git" target="_blank"><strong>[UIKit] 날씨 앱(TDD공부-제작중) - 팀 프로젝트 </strong><br/>
+<a href="https://github.com/z-wook/How_is_the_weather.git" target="_blank"><strong>[UIKit] 날씨 앱(공부-제작중) - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/SimpleWeather.git" target="_blank"><strong>[UIKit] 날씨 앱(RxSwift공부-제작중) - 1인 프로젝트 </strong><br/>
 <a href="https://github.com/CHERIN2/kickboards-ios.git" target="_blank"><strong>[UIKit] 킥보드 대여 앱 - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MemoRxSwift.git" target="_blank"><strong>[UIKit] Memo App(RxSwift공부) - 1인 프로젝트 </strong><br/>
