@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+🥳+;+;I'm+an+iOS+developer+who+loves+to+read)](https://git.io/typing-svg)
 
 ---
-## 배포 프로젝트
-
----
-## 토이 프로젝트
+## 프로젝트
 <a href="https://github.com/GaeMeee/Fence_App.git" target="_blank"><strong>[UIKit] 찾아줄개 - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MuYaHo.git" target="_blank"><strong>[UIKit] 무야호! - 팀 프로젝트_ iOS(1), 백엔드(1), 기획자(2) </strong><br/>
 <a href="https://github.com/z-wook/How_is_the_weather.git" target="_blank"><strong>[UIKit] 날씨 앱 - 팀 프로젝트 </strong><br/>
