@@ -17,6 +17,8 @@
 
 ---
 ## 오픈소스 프로젝트
+<a href="https://github.com/suojae3/SwiftyUIKit.git" target="_blank"><strong>[Swift] SwiftyUIKit 라이브러리 </strong><br/>
+
 <a href="https://github.com/suojae3/EventChain.git" target="_blank"><strong>[Swift] EventChain 라이브러리 </strong><br/>
 
 ---
