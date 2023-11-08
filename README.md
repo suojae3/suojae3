@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&duration=1000&color=FF7373&background=FFEADD56&center=true&multiline=true&repeat=false&width=800&height=130&lines=😍+Welcome+to+my+Github+🥳+;+;I'm+an+iOS+developer+who+loves+to+read)](https://git.io/typing-svg)
 
 ---
-## 프로젝트
+## Project
 <a href="https://github.com/GaeMeee/Fence_App.git" target="_blank"><strong>[UIKit] 찾아줄개 - 팀 프로젝트 </strong><br/>
 <a href="https://github.com/suojae3/MuYaHo.git" target="_blank"><strong>[UIKit] 무야호! - 팀 프로젝트_ iOS(1), 백엔드(1), 기획자(2) </strong><br/>
 <a href="https://github.com/z-wook/How_is_the_weather.git" target="_blank"><strong>[UIKit] 날씨 앱 - 팀 프로젝트 </strong><br/>
@@ -16,15 +16,19 @@
 <a href="https://www.notion.so/18-Flutter-1fbd0082a0dd49b1916cef53cde380e7?pvs=4" target="_blank"><strong>[Flutter] 오늘의 할 일 - 팀 프로젝트 </strong><br/>
 
 ---
-## 오픈소스 프로젝트
+
+<br/>
+
+## OpenSource Project
 <a href="https://github.com/suojae3/SwiftyUIKit.git" target="_blank"><strong>[Swift] SwiftyUIKit 라이브러리 </strong><br/>
 
 <a href="https://github.com/suojae3/EventChain.git" target="_blank"><strong>[Swift] EventChain 라이브러리 </strong><br/>
 
 ---
-## Computer Science
 
+<br/>
 
+## Computer Science Notes
 
 #### Operating System
 
@@ -51,7 +55,9 @@
 
 ---
 
-## Clean Code & Software Architecture
+<br/>
+
+## Books 
 
 <a href="https://github.com/suojae3/CleanCode.git" target="_blank"><strong> 클린코드- Academind by Maximilian Schwarzmüller
 </strong></a></a><br/>
@@ -70,7 +76,9 @@
 
 ---
 
-## WWDC 영상 정리
+<br/>
+
+## WWDC Notes
 
 #### Swift
 <a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Concurrent-Programming-with-GCD-e86c494b28b74b6eaaab4a53f59ff0ca?pvs=4"><strong> [WWDC16-Swift] Concurrent Programming with GCD
@@ -87,36 +95,12 @@
 
 ---
 
-## iOS Article
+<br/>
 
-<a href="https://amused-jobaria-1a0.notion.site/Swift-Enums-Design-Systems-Jacob-Bartlett-43656bc1385a4bb2914be186724995b7?pvs=4"> <strong>  Enum을 통해 Design System 구축하기
+## Swift Programming Notes
+
+<a href="https://amused-jobaria-1a0.notion.site/Swift-Enums-Design-Systems-Jacob-Bartlett-43656bc1385a4bb2914be186724995b7?pvs=4"> <strong>  Enhancing UITextField with Declarative Programming
 </strong></a></a><br/>
-
-
-
----
-
-## iOS Self-Study
-
-<a href="https://github.com/suojae3/weakSelf.git" target="_blank"><strong>왜 closure 값은 누적 되는걸까? (feat. closure의 캡쳐현상)</strong></a></a><br/>
-<a href="https://github.com/suojae3/closure.git" target="_blank"><strong>왜 closure 에서 [weak self]를 선언해야할까?</strong></a></a><br/>
-<a href="https://github.com/suojae3/escaping.git" target="_blank"><strong>`@escaping` 키워드는 언제 사용하는걸까?</strong></a></a><br/>
-<a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
-</strong></a></a><br/>
-<a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefault란 어떤 저장소인가요?
-</strong></a></a><br/>
-<a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴이란 무엇인가요?
-</strong></a></a><br/>
-<a href="https://band-flute-621.notion.site/iOS-4c08ebf581344cfa990cc73ea87b4af9?pvs=4" target="_blank"><strong> iOS 지식정리
-</strong></a></a><br/>
-
----
-
-## Problem Solving (Swift)
-
-<a href="https://github.com/suojae3/ProblemSolving100.git" target="_blank"><strong>Problem Solving - 인프런 강의 </strong></a></a><br/>
-<a href="https://github.com/suojae3/ProblemSolving1" target="_blank"><strong>Problem Solving - 내가 푼 문제 </strong></a></a><br/>
-
 
 ---
 
