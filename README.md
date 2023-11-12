@@ -84,20 +84,22 @@
 ## WWDC Notes
 
 #### Swift
-<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Concurrent-Programming-with-GCD-e86c494b28b74b6eaaab4a53f59ff0ca?pvs=4"><strong> [WWDC16-Swift] Concurrent Programming with GCD
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Concurrent-Programming-with-GCD-e86c494b28b74b6eaaab4a53f59ff0ca?pvs=4"><strong> [WWDC16] Concurrent Programming with GCD
 </strong></a></a><br/>
-<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Protocol-and-Value-Oriented-Programming-in-UIKit-Apps-98378abff0914969a633734764d58fff?pvs=4"><strong> [WWDC16-Swift] Protocol and Value Oriented Programming in UIKit Apps
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Protocol-and-Value-Oriented-Programming-in-UIKit-Apps-98378abff0914969a633734764d58fff?pvs=4"><strong> [WWDC16] Protocol and Value Oriented Programming in UIKit Apps
 </strong></a></a><br/>
-<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Understanding-Swift-Performance-5cd09a9cca85411f96539ddde31d3bdf?pvs=4"><strong> [WWDC16-Swift] Understanding Swift Performance
+<a href="https://amused-jobaria-1a0.notion.site/WWDC16-Swift-Understanding-Swift-Performance-5cd09a9cca85411f96539ddde31d3bdf?pvs=4"><strong> [WWDC16] Understanding Swift Performance
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/iOSMemory.git"><strong> [WWDC18-Swift] iOS Memory Deep Dive
+<a href="https://github.com/suojae3/iOSMemory.git"><strong> [WWDC18] iOS Memory Deep Dive
 </strong></a></a><br/>
-<a href="https://github.com/suojae3/IntroduceSPM.git"><strong> [WWDC18-Swift] Getting to know Swift Package Manager
+<a href="https://github.com/suojae3/IntroduceSPM.git"><strong> [WWDC18] Getting to know Swift Package Manager
 </strong></a></a><br/>
 
 
 #### SwiftUI & Framework
 
+<a href="https://github.com/suojae3/ImplementingDarkMode.git"><strong> [WWDC19] Implementing Dark Mode
+</strong></a></a><br/>
 
 
 ---
