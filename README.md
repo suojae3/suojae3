@@ -109,26 +109,6 @@
 <br/>
 
 ---
-
-## iOS Online Lecture Notes
-
-
-#### UDEMY
-
-
-#### 패스트캠퍼스
-
-
-#### 인프런
-
-
-#### Youtube
-
----
-
-<br/>
-
----
 ## Swift Programming Notes
 
 <a href="https://github.com/suojae3/TIL23.11.08.git"> <strong>  Enhancing UITextField with Declarative Programming
