@@ -44,7 +44,7 @@
 
 
 #### Network
-<a href="https://github.com/suojae3/Network.git" target="_blak"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
+<a href="https://velog.io/@suojae0516/series/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC"><strong>[MOOC: 한양대학교] 컴퓨터 네트워크 -	이석복 교수 </strong></a></a><br/>
 <a href="https://amused-jobaria-1a0.notion.site/af24c3c9aab547f795a02361e2773f14?pvs=4" target="_blank"><strong>[Inflearn] Computer Networking 개념 정리</strong></a></a>
 
 #### Data Structure
