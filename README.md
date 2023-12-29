@@ -117,7 +117,7 @@
 
 ## 코드 기록
 
-<a href="https:/gist.github.com/suojae3"><strong> 코드 기록장
+<a href="gist.github.com/suojae3"><strong> 코드 기록장
 </strong></a></a><br/>
 
 ---
