@@ -115,15 +115,10 @@
 
 ---
 
-## iOS Interview Notes
+## 코드 기록
 
-
-#### Swift
-
-
-#### Framework
-
-
+<a href="https:/gist.github.com/suojae3"><strong> 코드 기록장
+</strong></a></a><br/>
 
 ---
 
