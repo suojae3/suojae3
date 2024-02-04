@@ -100,7 +100,7 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/IntroduceSPM.git"><strong> [WWDC18] Getting to know Swift Package Manager
 </strong></a></a><br/>
-<a href="https://amused-jobaria-1a0.notion.site/WWDC2020-Enable-Encrypted-DNS-56853b23d60a46d58e98115f9145336e?pvs=4"><strong> [WWDC2020] Enable Encrypted DNS
+<a href="https://amused-jobaria-1a0.notion.site/WWDC2020-Enable-Encrypted-DNS-56853b23d60a46d58e98115f9145336e?pvs=4"><strong> [WWDC20] Enable Encrypted DNS
 </strong></a></a><br/>
 
 
