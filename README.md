@@ -121,7 +121,7 @@
 
 ---
 
-## 트러블 슈팅 기록
+## Trouble Shooting
 
 <a href="https://github.com/suojae3/TIL23.11.08.git"> <strong>  Enhancing UITextField with Declarative Programming
 </strong></a></a><br/>
