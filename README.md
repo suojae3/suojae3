@@ -78,6 +78,8 @@
 <a href="https://github.com/iOS-BookClub/BookClub/blob/main/Storage/suojae_ModernConcurrency/ModernConcurrency.md" target="_blank"><strong> Modern concurrency on apple platforms
 </strong></a></a><br/>
 <a href="https://github.com/iOS-BookClub/BookClub/blob/main/Storage/JustEnoughArchitecture/JustEnoughArchitecture.md" target="_blank"><strong> 적정 소프트웨어 아키텍처(리스크 주도 접근법) - 조지 페어뱅크스</strong></a></a><br/>
+<a href="https://github.com/iOS-BookClub/BookClub/blob/suojae/Storage/suojae_EssentialComputerScience/EssentialComputer%20Science%3A%20A%20Programmer%E2%80%99s%20Guide%20to%20FoundationalConcepts.md" target="_blank"><strong> Essential Computer Science: A Programmer’s Guide to Foundational Concepts - by Paul D. Crutcher</strong></a></a><br/>
+
 
 
 ---
