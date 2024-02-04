@@ -119,18 +119,7 @@
 
 ---
 
-## 코드 기록
-
-<a href="https://gist.github.com/suojae3"><strong> 코드 기록장
-</strong></a></a><br/>
-
----
-
-<br/>
-
-----
-
-## Swift Programming Notes
+## 트러블 슈팅 기록
 
 <a href="https://github.com/suojae3/TIL23.11.08.git"> <strong>  Enhancing UITextField with Declarative Programming
 </strong></a></a><br/>
