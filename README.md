@@ -75,6 +75,10 @@
 </strong></a></a><br/>
 <a href="https://github.com/suojae3/Refactoring.git" target="_blank"><strong> 리팩토링 - 마틴 파울러
 </strong></a></a><br/>
+<a href="https://github.com/iOS-BookClub/BookClub/blob/main/Storage/suojae_ModernConcurrency/ModernConcurrency.md" target="_blank"><strong> Modern concurrency on apple platforms
+</strong></a></a><br/>
+<a href="https://github.com/iOS-BookClub/BookClub/blob/main/Storage/JustEnoughArchitecture/JustEnoughArchitecture.md" target="_blank"><strong> 적정 소프트웨어 아키텍처(리스크 주도 접근법) - 조지 페어뱅크스</strong></a></a><br/>
+
 
 ---
 
